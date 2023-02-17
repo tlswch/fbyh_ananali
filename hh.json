@@ -54,7 +54,7 @@
         {"key":"csp_xBPQ_抓饭体育","name": "🏀抓饭体育┃XBPQ","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/抓饭体育.json"},
         {"key":"csp_xBPQ_zf","name":"🐶酷狗 MV┃XBPQ","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/酷狗MV.json"},
         {"key":"csp_XYQBiu_酷奇","name": "🎤酷奇MV┃XYQ","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQxb/酷奇MV.json"},
-        {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙┃XYQ","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
+        {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙┃XYQ","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
         {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃XYQ","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
         {"key":"csp_xBPQ_短视频","name":"📽短视频┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/短视频.json"},
         {"key":"csp_Alist1","name":"🎾Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
