@@ -1,8 +1,7 @@
 {
     "spider": "./jar/hh.jar;md5;69dd9e68b15e7ebfb70b0f21e732414c",
 	"wallpaper": "https://饭太硬.ga/深色壁纸/api.php",
-	"lives":[{"name":"live","type":0,"url":"http://ftyyy.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
-	//"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
+	"lives":[{"name":"live","type":0,"url":"./hh.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 	"sites": [
 	    {"key":"js豆瓣","name":"🖌豆瓣┃推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
