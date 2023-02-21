@@ -39,6 +39,7 @@
 		{"key":"csp_QQ","name":"🐧腾讯┃官采","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_IQIYI","name":"🥝爱奇艺┃官采","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"MGT","name":"🍋芒果┃SP","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"csp_app_源头","name":"🐈┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
         {"key":"csp_Yj1211","name": "📽直播合集┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Anime1","name": "🌸日漫合集┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
