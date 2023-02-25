@@ -1,25 +1,8 @@
 {
   "drives": [
     {
-      "name": "自用",
-      "server": "http://127.0.0.1:5244",
-      "password": "1860"    
-    },
-    {
-      "name": "欧逼",
-      "server": "https://alistcn.repl.co"
-    },
-    {
-      "name": "文文",
-      "server": " http://518p8g7316.goho.co:5244"
-    },
-    {
-      "name": "小兵",
-      "server": "https://6vv.app"
-    },
-    {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro/"
     },
     {
       "name": "杜比",
@@ -38,10 +21,6 @@
       "server": "https://alist.52qy.repl.co"
     },
     {
-      "name": "梓澪",
-      "server": "https://zi0.cc"
-    },
-    {
       "name": "米奇",
       "server": "https://anime.mqmmw.ga"
     },
@@ -58,10 +37,6 @@
       "server": "https://al.chirmyram.com"
     },
     {
-      "name": "好汉吧",
-      "server": "https://8023.haohanba.cn"
-    },
-    {
       "name": "云播放",
       "server": "https://quanzi.laoxianghuijia.cn"
     },
@@ -74,16 +49,12 @@
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "资源小站",
+      "name": "資源小站",
       "server": "https://960303.xyz"
     },
     {
       "name": "DISK",
       "server": "http://124.222.140.243:8080"
-    },
-    {
-      "name": "轻弹浅唱",
-      "server": "https://g.xiang.lol"
     },
     {
       "name": "听闻",
@@ -94,12 +65,9 @@
       "server": "https://drive.9t.ee"
     },
     {
-      "name": "SB盘",
-      "server": "http://sbpan.tk"
-    },
-    {
-      "name": "菊花盘",
-      "server": "https://pan.142856.xyz"
+      "name": "自用",
+      "server": "http://127.0.0.1:5244",
+      "password": "1860"    
     }
   ]
 }
