@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;15963d2c360e6ecab89c962fc205a9b6",
+    "spider": "./jar/hh.jar;md5;c7a548f950e99c50a3465918f2aab475",
 	"wallpaper": "https://饭太硬.ga/深色壁纸/api.php",
 
 	"sites": [
@@ -12,6 +12,7 @@
 	    {"key":"csp_AppTT","name":"🖼图图影视┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 	    {"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_BuLei","name":"⚡布雷影视┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
+	    {"key":"csp_AppMr","name":"👻明明┃SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_apple","name":"🍎小苹果┃SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Yht","name":"🌹野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 	    {"key":"csp_fantuan","name":"🍙饭团┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
