@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;492f9401fec7d490f6f2e48f045e1580",
+    "spider": "./jar/hh.jar;md5;4d4928e4505e301355aedfa1e43e9d71",
 	"wallpaper": "https://饭太硬.ga/深色壁纸/api.php",
 
 	"sites": [
@@ -20,8 +20,7 @@
 	    {"key":"csp_Vofl","name":"🌀Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Xinsj","name":"🆕新视觉┃SP","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 	    {"key":"csp_Czsapp","name":"🧛厂长资源┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-	    
-	    {"key":"csp_Yht","name":"🌹野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},	        
+	  
 	    {"key":"csp_DiDuan" ,"name":"⏮️低端影视┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 	    {"key":"csp_Cokemv","name":"🥤可乐影视┃SP","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Auete","name":"🐼Auete┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,6 +28,7 @@
 	    
 	    {"key":"csp_Lib","name": "👐LIBvio┃SP","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://libvio.me"},
         {"key":"csp_zxzj","name":"🖥️️在线之家┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_zxzjH3","name":"🖥️在线H3┃影视","type":3,"api":"csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
         {"key":"csp_Lgyy","name": "🌈蓝光影院┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.lgyy.tv"},
         {"key":"csp_Smdyy","name": "🐎神马影视┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Bd","name":"📣哔嘀影视┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
