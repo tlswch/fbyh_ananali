@@ -38,7 +38,7 @@
 	    {"key":"csp_555","name":"👗555┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},    
 	    {"key":"csp_Nkdy","name":"🗽耐看┃直连","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑料.json"},	    
-	    {"key":"csp_SP360","name":"🎞360影视┃解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	    {"key":"csp_SP360","name":"🎞360┃解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_QQ","name":"🐧腾讯┃解析","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_IQIYI","name":"🥝爱奇艺┃解析","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"MGT","name":"🍋芒果┃解析","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
